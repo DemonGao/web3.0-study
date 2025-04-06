@@ -1,5 +1,6 @@
 import { HardhatUserConfig, task } from "hardhat/config";
 import "@nomicfoundation/hardhat-toolbox";
+import "@nomicfoundation/hardhat-ethers" ; // 使用 ethers 必须引入此包
 
 import dotenv from 'dotenv'
 dotenv.config();
