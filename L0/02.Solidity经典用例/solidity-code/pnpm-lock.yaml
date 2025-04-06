@@ -17,6 +17,9 @@ importers:
       dotenv:
         specifier: ^16.4.7
         version: 16.4.7
+      ethers:
+        specifier: ^6.13.5
+        version: 6.13.5
       hardhat:
         specifier: ^2.22.19
         version: 2.22.19(ts-node@10.9.2(@types/node@22.14.0)(typescript@5.8.3))(typescript@5.8.3)
